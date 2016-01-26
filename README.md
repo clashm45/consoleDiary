@@ -9,3 +9,6 @@ write in the Console Diary.
 * ファイルに保存する
 	* 日付付きのファイル名で作成する
 
+* '-d yyyy-MM-dd'オプション
+	* 指定した日付で日記をつける。
+
